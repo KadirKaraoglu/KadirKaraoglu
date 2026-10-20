@@ -10,13 +10,7 @@
 
 ---
 
-## 🧑‍🎓 About Me
 
-- 🎓 Junior at **Sam Houston State University**, **Honors College** — B.S. in Software Engineering (transfer from Fırat University, Türkiye)
-- 💼 Former **Software Developer Intern @ HAVSAN** — backend APIs, Google API workflow automations, AI tool integrations
-- 🔬 Former **Research Assistant @ Fırat University** — micro-robotics research
-- 🌱 Currently learning: **Kotlin** and solving problems on **LeetCode**
-- 🌍 Languages: Turkish (Native), English
 
 <p align="center"><img src="https://media.tenor.com/Zd8dN5EjK4AAAAAM/spongebob-squarepants.gif" width="500" /></p>
 
