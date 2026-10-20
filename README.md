@@ -1,16 +1,6 @@
-<h1 align="center">Hi, I'm Kadir 👋</h1>
-
-<p align="center">
-  Software Engineering Student @ Sam Houston State University | Honors College | Backend & AI Agents 🤖
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Backend+Developer+with+Spring+Boot;Building+AI+Agent+Systems;Always+learning+something+new" alt="Typing SVG" />
-</p>
-
+<h1 align="center">Hi, I'm Kadir 👋</h1> <p align="center"> Software Engineering Student @ Sam Houston State University | Honors College | Backend & AI Agents 🤖 </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Backend+Developer+with+Spring+Boot;Building+AI+Agent+Systems;Always+learning+something+new" alt="Typing SVG" /> </p>
 🧑‍🎓 About Me
-<p align="center"><img src="https://media.tenor.com/Zd8dN5EjK4AAAAAM/spongebob-squarepants.gif" width="500" /></p> 
-
+<p align="center"><img src="https://media.tenor.com/Zd8dN5EjK4AAAAAM/spongebob-squarepants.gif" width="500" /></p>
 ## 🔁 How I Build Things
 
 ```mermaid
