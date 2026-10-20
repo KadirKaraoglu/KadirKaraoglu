@@ -11,8 +11,6 @@
 ---
 
 ## 🧑‍🎓 About Me
-
-
 <p align="center"><img src="https://media.tenor.com/Zd8dN5EjK4AAAAAM/spongebob-squarepants.gif" width="500" /></p>
 
 ---
